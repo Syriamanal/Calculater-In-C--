@@ -26,6 +26,7 @@ cout << "Processing...\n";
 cout << endl;
 cout << "Processing Complete....";
 cout << endl;
-cout << Num1 << Duv << Num2 << " Is " << Sum << endl;
+cout << Num1 << Duv << Num2 << " = " << Sum << endl; // Calclats the problem!
+
 return 0;
 }
