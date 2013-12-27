@@ -22,11 +22,11 @@ cout << endl;
 
 Sum = Num1, Duv, Num2;
 
-cout << "Processing...\n";
+cout << "Processing ...\n";
 cout << endl;
-cout << "Processing Complete....";
+cout << "Processing Complete ....";
 cout << endl;
-cout << Num1 << Duv << Num2 << " = " << Sum << endl; // Calclats the problem!
+cout << Num1 << Duv << Num2 << " = \a" << Sum << endl; // Calclats the problem!
 
 return 0;
 }
